@@ -1,4 +1,4 @@
-package TP1EX1;
+package tp1ex1;
 
 class BankAccount {
 	private int accountNumber;
